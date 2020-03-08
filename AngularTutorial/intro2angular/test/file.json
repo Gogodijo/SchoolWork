@@ -1,0 +1,19 @@
+ {"obj" : [
+    {
+      "name": "Joni",
+      "online": true
+    },
+    {
+      "name": "Puukka",
+      "online": true
+    },
+    {
+      "name": "Pyry",
+      "online": false
+    },
+    {
+      "name": "Noora",
+      "online": true
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+AngularTutorial\backend\node_modules\*
+AngularTutorial\*\node_modules\*
+*\node_modules\*
+AngularTutorial/backend/node_modules/.bin/is-ci
+*/*/node_modules/*
